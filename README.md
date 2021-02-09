@@ -5,6 +5,8 @@ Second task was set up dynamic routing using OSPF routing protocol, and verify a
 
 ## Following are the result of subnetting and configuring OSPF protocol:
 
+Computers are able to ping other computers on different network. and with Trace route it is confirmed that no data is lost.
+
 ![Screenshot (174)](https://user-images.githubusercontent.com/35185184/107434439-68ed2780-6af0-11eb-9782-720f5cb15db6.png)
 
 
